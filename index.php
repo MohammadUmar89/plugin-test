@@ -1,17 +1,13 @@
 <?php
 
-/**
- * Plugin Name: Testing
- * Plugin URI: https://localhost.com/
- * Description: TEsting for Github autoupdate
- * Author: Cyberhawks
- * Author URI: https://cyberhawks.com/
- * 
- * 
- * 
- * 
- * 
- * 
+/*
+Plugin Name: GitHub Test
+Plugin URI:  http://localhost/
+Author:      CyberHawks
+Author URI:  https://cyberhawks.com/
+Description: PLUGIN DESCRIPTION
+Version:     0.9.3
+Text Domain: text-domain
  */
 
  echo "Hello there";
