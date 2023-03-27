@@ -6,8 +6,8 @@ Plugin URI:  http://localhost/
 Author:      CyberHawks
 Author URI:  https://cyberhawks.com/
 Description: PLUGIN DESCRIPTION
-Version:     0.9.4
+Version:     0.9.5
 Text Domain: text-domain
  */
 
- echo "Hello there NEw Version";
+ echo "Plugin Updated";
