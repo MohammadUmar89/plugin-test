@@ -12,4 +12,4 @@ GitHub Plugin URI: MohammadUmar89/plugin-test
 GitHub Plugin URI: https://github.com/MohammadUmar89/plugin-test.git
  */
 
- echo "Branch Test";
+ echo "This is new";
